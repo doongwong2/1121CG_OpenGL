@@ -1,2 +1,6 @@
 # 1121CG_OpenGL
-my computer graphics stuff, using openGL 1.0 - 2.0
+hw1 - Make a Paint program.  
+hw2 - Make a helicopter.  
+hw3 - Create multiple viewports.  
+hw4 - Add lighting and materials.  
+hw5 - Add texture, billboarding, and fog effects.
