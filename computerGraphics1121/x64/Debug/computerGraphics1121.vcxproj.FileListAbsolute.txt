@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\programs\computerGraphics1121\x64\Debug\computerGraphics1121.exe
+C:\Users\User\Desktop\programs\computerGraphics1121\x64\Debug\computerGraphics1121.vcxproj.CopyComplete
+C:\Users\User\Desktop\programs\computerGraphics1121\x64\Debug\freeglutd.dll

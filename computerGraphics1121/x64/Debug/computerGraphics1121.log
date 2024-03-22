@@ -1,0 +1,130 @@
+﻿  billboards_and_fog.c
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(46,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(47,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(122,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(123,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(250,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(251,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(252,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(299,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(342,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(505,48): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(505,53): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(505,58): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(506,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(506,36): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(506,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(509,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(509,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(509,58): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(511,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(511,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(511,58): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(513,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(513,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(513,58): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(515,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(515,46): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(515,58): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(759,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(761,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(838,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(838,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(842,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(842,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(891,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(891,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(895,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(897,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(903,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(903,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(905,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(905,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(907,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(907,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(909,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(917,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(917,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(917,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(923,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(923,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(923,34): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(930,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(930,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(930,34): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(937,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(937,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(937,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(794,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(795,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(811,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(812,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(823,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(824,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(825,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(952,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(965,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(965,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(965,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(973,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(973,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(982,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(982,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(990,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(990,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(949,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(950,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(951,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1071,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1071,48): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1071,73): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1077,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1077,48): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1077,73): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1083,23): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1083,48): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1083,73): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1056,12): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1154,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1155,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1156,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1157,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1301,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1305,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1325,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1325,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1325,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1291,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1332,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1493,52): warning C4013: 'debugg' undefined; assuming extern returning int
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1494,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1495,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1499,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1500,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1513,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1514,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1519,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1520,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1528,47): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1532,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1536,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1540,47): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1544,47): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1548,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1701,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1710,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1711,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1813,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1814,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1816,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1817,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1818,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1875,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1876,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1879,35): warning C4113: 'void (__cdecl *)(int,int)' differs in parameter lists from 'void (__cdecl *)(int,int,int,int)'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1921,29): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1968,25): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1968,25): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1968,25): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\User\Desktop\programs\computerGraphics1121\billboards_and_fog.c(1974): warning C4716: 'debugg': must return a value
+  computerGraphics1121.vcxproj -> C:\Users\User\Desktop\programs\computerGraphics1121\x64\Debug\computerGraphics1121.exe
